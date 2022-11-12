@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TypingSFML"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TypingSFML">
+				<Option output="/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/TypingSFML" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 TypingSFML"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TypingSFML/fast">
+				<Option output="/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/TypingSFML" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 TypingSFML/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/wingchan/CLionProjects/TypingSFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ColorBox.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ColorBox.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ColorGradient.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ColorGradient.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ColorOption.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ColorOption.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ColorPicker.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ColorPicker.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Coloring.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Coloring.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Cursor.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Cursor.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/DropdownMenu.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/DropdownMenu.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/EventHandler.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/EventHandler.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/FileItem.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/FileItem.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/FileNode.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/FileNode.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/FileTree.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/FileTree.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Fonts.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Fonts.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/GUI_Component.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/GUI_Component.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/History.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/History.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/HistoryNode.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Image.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Image.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/InputBox.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/InputBox.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Item.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Item.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ItemList.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ItemList.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/KeyShortcuts.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/KeyShortcuts.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Label.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Label.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Letter.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Letter.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/LinkedList.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/LinkedList.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Logo.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Logo.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/LogoMaker.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/LogoMaker.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Menu.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Menu.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/MenuBar.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/MenuBar.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/MouseEvents.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/MouseEvents.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/MultiText.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/MultiText.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Node.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Node_Iterator.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Node_Iterator.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/ObjectStates.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Slider.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Slider.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Snapshot.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Snapshot.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/SnapshotInterface.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/SnapshotInterface.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/States.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/States.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/TextBox.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/TextBox.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/TextInput.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/TextInput.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Typing.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/Typing.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/WindowDialog.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/WindowDialog.h">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/main.cpp">
+			<Option target="TypingSFML"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/wingchan/CLionProjects/TypingSFML/../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
